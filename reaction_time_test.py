@@ -3,7 +3,7 @@ import webbrowser
 import time
 webbrowser.open("https://humanbenchmark.com/tests/reactiontime")
 
-time.sleep(2)
+time.sleep(2) # Wait for browser to open
 
 levels = 5
 green_color = (79, 219, 110) # RGB
