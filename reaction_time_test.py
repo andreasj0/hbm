@@ -16,9 +16,6 @@ box_height = int(screen_height / 2) + offset_value
 pag.moveTo(box_width, box_height)
 
 
-
-    
-
 for i in range(levels): # 5 levels in total
     color = pag.pixel(box_width, box_height)
 
