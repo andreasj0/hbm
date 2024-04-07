@@ -1,4 +1,4 @@
-## Human Benchtest
+## Human Benchmark
 
 #### Reaction Time
 Reaction Time recognises a color and clicks as fast as it sees it.
